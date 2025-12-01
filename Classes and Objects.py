@@ -1,5 +1,5 @@
-class Student:
-    def __init__(self, name, age):
+class Student: 
+    def __init__(Self, Name, Age):
         self.name = name
         self.age = age
 
@@ -9,3 +9,4 @@ class Student:
 student1 = Student("Ayan", 21)
 
 student1.introduce() 
+

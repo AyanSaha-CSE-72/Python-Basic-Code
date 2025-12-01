@@ -6,5 +6,6 @@ class Student:
     def introduce(self):
         print("Hello, my name is", self.name, "and I am", self.age, "years old.")
 
-student1 = Student("Ayan", 20)
+student1 = Student("Ayan", 21)
+
 student1.introduce() 
